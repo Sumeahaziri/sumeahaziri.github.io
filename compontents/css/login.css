@@ -1,0 +1,26 @@
+.login-container h2{
+    color: #ff7700;
+    font-family: "Black Ops One", system-ui;
+}
+
+#fit-life{
+    background-color: black;
+}
+
+.login-container label{
+    color: #fff;
+}
+
+.login-container p{
+    color: #fff;
+}
+
+.login-container a{
+    color: #ff7700;
+}
+
+.login-container button{
+    background-color: #ff7700;
+    color: #fff;
+    border: none;
+}

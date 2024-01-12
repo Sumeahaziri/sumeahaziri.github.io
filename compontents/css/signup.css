@@ -1,0 +1,26 @@
+.signup-container h2{
+    color: #ff7700;
+    font-family: "Black Ops One", system-ui;
+}
+
+#fit-life{
+    background-color: black;
+}
+
+.signup-container label{
+    color: #fff;
+}
+
+.signup-container p{
+    color: #fff;
+}
+
+.signup-container a{
+    color: #ff7700;
+}
+
+.signup-container button{
+    background-color: #ff7700;
+    color: #fff;
+    border: none;
+}
